@@ -25,7 +25,7 @@ Now, let's go through the installation process step by step:
 
 ### Step 1: Download the Project
 
-- Go to the project's GitHub repository: [Project Repository](https://github.com/yourusername/yourproject)
+- Go to the project's GitHub repository: [Project Repository](https://github.com/Habebi/iemhacks_Radhe)
 - Click on the "Code" button and select "Download ZIP".
 - Save the ZIP file to a location on your computer.
 
